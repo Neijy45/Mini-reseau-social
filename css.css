@@ -1,0 +1,21 @@
+.style {
+    color: white;
+    font-size: 20px;
+}
+
+.card-style {
+    width: 700px;
+    height: 450px;
+    border: solid 1px;
+    border-radius: 10px;
+}
+
+.img-style {
+    width: 300px;
+    height: 400px
+}
+
+.div-post {
+    width: 400px;
+    height: 400px;
+}
